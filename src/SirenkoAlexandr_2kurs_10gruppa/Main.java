@@ -1,4 +1,4 @@
-package SirenkoAlexandr_2kurs_10gruppa;
+package SirenkoAlexandr_2kurs_10gruppa;//start
 
 public class Main {
 
